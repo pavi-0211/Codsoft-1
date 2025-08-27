@@ -1,2 +1,3 @@
-# Codsoft-1
-Number guessing game.
+Codsoft
+Internship projects
+
